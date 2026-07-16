@@ -1,0 +1,11 @@
+{
+  "displayMode": "icon-only",
+  "deviceNativePath": "__default__",
+  "showPowerProfiles": true,
+  "showNoctaliaPerformance": true,
+  "hideIfNotDetected": false,
+  "hideIfIdle": false,
+  "refreshIntervalSeconds": 5,
+  "showPowerInBar": true,
+  "showTimeInBar": true
+}

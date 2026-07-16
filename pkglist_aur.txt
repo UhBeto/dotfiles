@@ -1,0 +1,10 @@
+bridge-utils
+hydra-launcher-bin
+obsidian-bin
+papirus-folders
+pipes.sh
+pixie-sddm-git
+sddm-theme-noctalia-git
+sddm-theme-obscure-git
+vicinae
+wine-ge-custom

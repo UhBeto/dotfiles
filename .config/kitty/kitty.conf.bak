@@ -1,0 +1,3 @@
+include themes/noctalia.conf
+shell /bin/zsh
+allow_remote_control yes

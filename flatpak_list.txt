@@ -1,0 +1,9 @@
+com.github.ADBeveridge.Raider
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.nvidia-610-43-02
+org.freedesktop.Platform.VAAPI.Intel
+org.freedesktop.Platform.VAAPI.nvidia
+org.freedesktop.Platform.codecs-extra
+org.gnome.Platform
+org.gtk.Gtk3theme.adw-gtk3-dark
